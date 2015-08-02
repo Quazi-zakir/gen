@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  inactive: 1
+  member_id: 
+
+two:
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  inactive: 1
+  member_id: 
